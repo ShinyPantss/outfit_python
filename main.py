@@ -5,7 +5,7 @@ import requests
 from io import BytesIO
 from background_removal import remove_bg
 
-# FastAPI uygulamasını başlat
+# FastAPI uygulamasını
 app = FastAPI()
 
 # Verilen input verisi için Pydantic modelini oluştur
